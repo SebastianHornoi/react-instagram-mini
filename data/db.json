@@ -1,0 +1,136 @@
+{
+  "stories": [
+    {
+      "foto": "https://images.unsplash.com/photo-1518577915332-c2a19f149a75?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=562&q=80",
+      "nomeUtente": "Anna",
+      "id": 1
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1475699230575-2a5929c0ed72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Maria",
+      "id": 2
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Sofia",
+      "id": 3
+    },
+    {
+      "foto": "https://images.unsplash.com/flagged/photo-1556151994-b611e5ab3675?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Martina",
+      "id": 4
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1592961495487-805c73c22198?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Marco",
+      "id": 5
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1580309237429-661ea7cd1d53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Lorenzo",
+      "id": 6
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1570752321219-41822a21a761?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=593&q=80",
+      "nomeUtente": "Donatella",
+      "id": 7
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1565294124524-200bb738cdb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=573&q=80",
+      "nomeUtente": "Francesca",
+      "id": 8
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1618077360395-f3068be8e001?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Bruno",
+      "id": 9
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1485893086445-ed75865251e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Giorgia",
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "foto": "https://images.unsplash.com/photo-1518577915332-c2a19f149a75?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=562&q=80",
+      "nomeUtente": "Anna",
+      "like": 30,
+      "postContent": "lorem ipsum sia amet dolorem lorem ipsum sia amet dolorem",
+      "ora": "1 ora fa",
+      "id": 11
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1475699230575-2a5929c0ed72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Maria",
+      "like": 12,
+      "postContent": "lorem ipsum sia amet dolorem locus solem",
+      "ora": "2 ora fa",
+      "id": 12
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Sofia",
+      "like": 2,
+      "postContent": "lorem ipsum sia amet dolorem lorem ipsum sia amet doloremlorem ipsum sia amet dolorem ",
+      "ora": "4 ore fa",
+      "id": 13
+    },
+    {
+      "foto": "https://images.unsplash.com/flagged/photo-1556151994-b611e5ab3675?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Martina",
+      "like": 102,
+      "postContent": "lorem ipsum sia amet dolorem lorem ipsum sia amet doloremlorem ipsum sia amet doloremlorem ipsum sia amet dolorem",
+      "ora": "1 ora fa",
+      "id": 14
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1592961495487-805c73c22198?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Marco",
+      "like": 5,
+      "postContent": "lorem ipsum sia amet dolorem",
+      "ora": "10 ora fa",
+      "id": 15
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1580309237429-661ea7cd1d53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Lorenzo",
+      "like": 15,
+      "postContent": "lorem ipsum sia amet dolorem lorem ipsum sia amet dolorem lorem ipsum sia amet dolorem",
+      "ora": "3 ora fa",
+      "id": 16
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1570752321219-41822a21a761?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=593&q=80",
+      "nomeUtente": "Donatella",
+      "like": 45,
+      "postContent": "lorem ipsum sia",
+      "ora": "1 ora fa",
+      "id": 17
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1565294124524-200bb738cdb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=573&q=80",
+      "nomeUtente": "Francesca",
+      "like": 120,
+      "postContent": "lorem ipsum sia amet dolorem lorem ipsum sia amet doloremlorem ipsum sia amet doloremlorem ipsum sia amet dolorem lorem ipsum sia amet dolorem",
+      "ora": "5 ora fa",
+      "id": 18
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1618077360395-f3068be8e001?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Bruno",
+      "like": 999,
+      "postContent": "lorem ipsum sia amet dolorem, lorem ipsum sia amet doloremlorem ipsum sia amet doloremm, lorem ipsum sia amet dolorem",
+      "ora": "1 minuto fa",
+      "id": 19
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1485893086445-ed75865251e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "nomeUtente": "Giorgia",
+      "like": 70,
+      "postContent": "lorem ipsum sia amet dolorem, lorem ipsum sia amet dolorem lorem ipsum sia amet dolorem",
+      "ora": "8 ora fa",
+      "id": 20
+    }
+  ]
+}
